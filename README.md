@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend development, using Python, Flash, MySQL, JavaScript and many others.**
 
-- 📝 I write articles on various tech topics you can check out some on my LinkedIn [https://www.linkedin.com/in/heatherhayes/recent-activity/articles/](https://www.linkedin.com/in/heatherhayes/recent-activity/articles/)
+- 📝 I write articles on various tech topics you can check out some on my LinkedIn [LinkedIn Articles/](https://www.linkedin.com/in/heatherhayes/recent-activity/articles/)
 
 - 📫 How to reach me **5549@holbertonstudents.com**
 
