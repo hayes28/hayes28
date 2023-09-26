@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Heather Hayes</h1>
 <h3 align="center">Aspiring fullstack Web developer from Tulsa, Ok.</h3>
 
-- 🔭 I’m currently working on [The Velvet Willow](https://github.com/hayes28/The-Velvet-Willow)
+- 🔭 I’m currently working on [The Velvet Willow - Website](https://hayes28.github.io/The-Velvet-Willow/)
+- Repository for [The Velvet Willow](https://github.com/hayes28/The-Velvet-Willow)
 
 - 🌱 I’m currently learning **Backend development, using Python, Flash, MySQL, JavaScript and many others.**
 
