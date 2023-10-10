@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **5549@holbertonstudents.com**
 
-<h3 align="left">Resume Status</h3> 🚧 Under Construction 🚧
+- 🖥️ [Website](https://hireheather918.com/)
 
 - 📄 [Resume](https://www.canva.com/design/DAFtuYEB2dY/3tYg1QLIoiNGvWWZn6nAiw/view?utm_content=DAFtuYEB2dY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
