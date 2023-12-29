@@ -1,18 +1,34 @@
-<h1 align="center">Hi 👋, I'm Heather Hayes</h1>
-<h3 align="center">Aspiring fullstack Web developer from Tulsa, Ok.</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&fontColor=cdbad4&height=300&section=header&text=Heather%20Hayes&fontSize=90&&animation=fadeIn)
+```yaml
+name: Heather Hayes
+located_in: Tulsa, Oklahoma
+current_job: Student
+education:
+[
+  "Associate's Degree in Liberal Arts from Tulsa Community College",
+  "Degree in Computer Science from Holberton",
+]
 
-- 🔭 I’m currently working on [The Velvet Willow - Website](https://hayes28.github.io/The-Velvet-Willow/)
-- Repository for [The Velvet Willow](https://github.com/hayes28/The-Velvet-Willow)
+fields_of_interests:
+[
+  "Web Development",
+  "UI/UX",
+  "Full-stack Development",
+]
 
-- 🌱 I’m currently learning **Backend development, using Python, Flash, MySQL, JavaScript and many others.**
+currently_learning: ["Docker, React, Backend Development"]
+2024 Goals: ["Create 10+ personal projects, Master Docker/Docker Compose"]
+hobbies: ["Pottery, Sewing, Live Music, Traveling"]
 
-- 📝 I write articles on various tech topics you can check out some on my LinkedIn [LinkedIn Articles/](https://www.linkedin.com/in/heatherhayes/recent-activity/articles/)
+```
 
-- 📫 How to reach me **5549@holbertonstudents.com**
+- 📝 I write articles on various tech topics you can check out some on [LinkedIn Articles](https://www.linkedin.com/in/heatherhayes/recent-activity/articles/) and [Medium Articles](https://medium.com/@heather.hayes918/navigating-new-waters-a142cea9729e)
+
+- 📫 How to reach me **heather.hayes918@gmail.com**
 
 - 🖥️ [Website](https://hireheather918.com/)
 
-- 📄 [Resume](https://www.canva.com/design/DAFtuYEB2dY/3tYg1QLIoiNGvWWZn6nAiw/view?utm_content=DAFtuYEB2dY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 [Resume](https://www.canva.com/design/DAF0Gpl0J3k/kBgutYYb7okplmhCCOCJMQ/edit?utm_content=DAF0Gpl0J3k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -21,8 +37,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/c/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/docker/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/figma/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/firebase/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/flask/fffff/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/git/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/html5/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/linux/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/mongoose/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/redis/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nginx/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/postman/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/python/[COLOR]/[DARK_MODE_COLOR]" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react/[COLOR]/[DARK_MODE_COLOR]" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayes28&show_icons=true&locale=en&layout=compact" alt="hayes28" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayes28&show_icons=true&locale=en" alt="hayes28" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+![Visitor Count](https://profile-counter.glitch.me/{hayes28}/count.svg)
+![footer](https://capsule-render.vercel.app/api?type=waving&Color=d6ace6&section=footer)
