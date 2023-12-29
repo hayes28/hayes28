@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&fontColor=cdbad4&height=300&section=header&text=Welcome&fontSize=90&&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learn+More+About+Me...)](https://git.io/typing-svg)
 ```yaml
 name: Heather Hayes
 located_in: Tulsa, Oklahoma
