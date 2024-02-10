@@ -8,7 +8,7 @@ current_job: Student
 education:
 [
   "Associate's Degree in Liberal Arts from Tulsa Community College",
-  "Degree in Computer Science from Holberton",
+  "Degree in Computer Science from Atlas School",
 ]
 
 fields_of_interests:
