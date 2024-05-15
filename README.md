@@ -4,7 +4,7 @@
 ```yaml
 name: Heather Hayes
 located_in: Tulsa, Oklahoma
-current_job: Student
+current_job: Currently seeking opportunities as a Fullstack Engineer
 education:
 [
   "Associate's Degree in Liberal Arts from Tulsa Community College",
@@ -16,9 +16,10 @@ fields_of_interests:
   "Web Development",
   "UI/UX",
   "Full-stack Development",
+  "Backend Development",
 ]
 
-currently_learning: ["Docker, React, Backend Development"]
+currently_learning: ["Docker, React, Next.js, Tailwind css, Backend Development"]
 2024 Goals: ["Create 10+ personal projects, Master Docker/Docker Compose"]
 hobbies: ["Pottery, Sewing, Live Music, Traveling"]
 
